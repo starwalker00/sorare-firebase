@@ -7,12 +7,12 @@ Send notification to android flutter app via Firebase.
 
 ## Configuration
 
-Git Clone.
-Run npm install.
-Import serviceAccountKey.json from Firebase web console project.
-Fill androidToken.js with FCM tokens.
-Configure loop delays in index.js.
-Run npm start.
+- Git Clone.
+- Run npm install.
+- Import serviceAccountKey.json from Firebase web console project.
+- Fill androidToken.js with FCM tokens.
+- Configure loop delays in index.js.
+- Run npm start.
 
 ## Useful links :
 
