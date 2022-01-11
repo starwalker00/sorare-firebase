@@ -1,5 +1,6 @@
 # Custom
-serviceAccountKey.json
+config/serviceAccountKey.json
+config/androidToken.js
 
 # Logs
 logs

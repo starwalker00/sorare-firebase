@@ -1,0 +1,6 @@
+// FCM tokens
+const registrationTokens = [
+    'WShXqsabn2-YfUbKqUAVN:APA91bELJ_7xZE3ourPYOeGaspWShXqsabnXPmhSlIPwNJh-a6z5uAWShXqsabnYh6WSPVNeYA4lVr2rLqTyRx0v6q6lj1k_hLUhEQ0CkewYxpnIn3JRCaBWShXqsabnv5aXKyvJxu',
+];
+
+module.exports.registrationTokens = registrationTokens;
